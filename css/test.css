@@ -12,11 +12,10 @@
     border-image-width: 50px 50px;
     border-radius: 3px;
     padding: 0% 20%;
-    
-   
-
-    
-    
+    #profile{
+        border: 5px solid black;
+    }
+         
 }
 #infor{
     font-weight: bold;
